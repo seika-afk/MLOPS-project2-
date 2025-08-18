@@ -1,0 +1,2 @@
+[ 2025-08-18 14:35:17,463 ] root - ERROR - Error during model registration: INTERNAL_ERROR: Response: {'error': 'unsupported endpoint, please contact support@dagshub.com'}
+[ 2025-08-18 14:35:17,464 ] root - ERROR - Failed to complete the model registration process: INTERNAL_ERROR: Response: {'error': 'unsupported endpoint, please contact support@dagshub.com'}

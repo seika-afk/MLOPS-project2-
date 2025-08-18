@@ -1,0 +1,2 @@
+[ 2025-08-18 14:27:38,740 ] root - ERROR - Error during model registration: 'run_id'
+[ 2025-08-18 14:27:38,740 ] root - ERROR - Failed to complete the model registration process: 'run_id'

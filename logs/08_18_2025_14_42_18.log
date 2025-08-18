@@ -1,0 +1,2 @@
+[ 2025-08-18 14:42:30,428 ] root - ERROR - Error during model registration: [Errno 2] No such file or directory: 'model'
+[ 2025-08-18 14:42:30,429 ] root - ERROR - Failed to complete the model registration process: [Errno 2] No such file or directory: 'model'
